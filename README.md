@@ -1,4 +1,5 @@
 # argoworkflow-status-addon
+** Now bundled in https://github.com/mikeshng/argo-workflow-multicluster **
 
 The Argo Workflow Status Addon is an OCM add-on that helps sync the status of the managed cluster Workflow to the hub cluster.
 This is an optional addon meant to be used along with https://github.com/mikeshng/argo-workflow-multicluster
